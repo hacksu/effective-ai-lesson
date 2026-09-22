@@ -1,7 +1,4 @@
-# AI Lesson
-This is the start of the AI lesson
-
-## Agenda 
+# Agenda 
 1. ChatGPT
 2. Copilot (VsCode)
 3. Claude code
@@ -298,6 +295,8 @@ If you want to just sit there and press 'accept' every 10 minutes, that is fine 
 
 what if it could just go forever on its own? Well that is what we just did ... so do we need developers anymore?
 
+Lets check in on those CS majors again! hmm
+
 What if these get so good that nobody is ever a programmer again and there is a finite set clock of time and when we finally achieve AGI or Artificial General Intelligence and it can iterate on itself forever and ever and create clones of itself forever and ever then the only people who will survive are the people who already built all of their wealth while it was being created?
 
 What if that happens, are we going to make it?
@@ -320,15 +319,17 @@ On September 3rd, 2026, or just 3 weeks ago OpenAI released their latest model G
 
 And honestly... nothing really changed. Actually, recently, it feels like a lot of the larger voices in the AI space are getting ... quieter. 
 
-On May 26th 2026 Sam Altman famously said : "I’m delighted to be wrong about this. I thought there would have been more impact on entry-level white-collar jobs being eliminated by now than has actually happened,"
+On May 26th 2026 Sam Altman famously said : "I’m delighted to be wrong about this. I thought there would have been more impact on entry-level white-collar jobs being eliminated by now than has actually happened," [source](https://www.businessinsider.com/sam-altman-ai-jobs-prediction-wrong-white-collar-openai-australia-2026-5)  
 
 Sam Altman has really been backtracking on a lot of his AI hype even though he still believes we will achieve superintelligence by 2028. Actually, even some of the quotes I said before he has recently retracted.
 
-But not everyone in the AI space is retracting their statements, Dario Amodei is actually acting crazier than ever. In January of 2026 he said that we are 6 to 12 months out from an AI agent swarm being able to take over the entire internet. [source](Without it, Dario Amodei warned AI could be capable within six to 12 months of leading a swarm that could take over the entire internet, among other risks.)
+But not everyone in the AI space is retracting their statements, Dario Amodei is actually acting crazier than ever. In January of 2026 he said that we are 6 to 12 months out from an AI agent swarm being able to take over the entire internet. [source](https://darioamodei.com/post/we-must-pace-the-frontier ) 
 
-Then in June of 2026 he released a 5,000 word write up called "Policy on the Exponential" where he explained that AI needs more safeguards and FAA style regulation. The craziest line by far though is "A nation that possesses powerful AI facing one without it—or even facing one that is behind in AI by 3 years—could be the equivalent of an army of World War II Marines facing an army of medieval swordsmen."
+Then in June of 2026 he released a 5,000 word write up called "Policy on the Exponential" where he explained that AI needs more safeguards and FAA style regulation. The craziest line by far though is "A nation that possesses powerful AI facing one without it—or even facing one that is behind in AI by 3 years—could be the equivalent of an army of World War II Marines facing an army of medieval swordsmen." [source](https://darioamodei.com/post/policy-on-the-ai-exponential) 
 
-But the difference here is, nobody is really talking about them. It really feels like the boy who cried wolf.  And now that AGI is allegedly here, and the entire world isn't upside down, we can finally start to discuss what has actually changed.
+But the difference here is, nobody is really talking about them. It really feels like the boy who cried wolf.  And now that AGI is allegedly here, and the entire world isn't upside down, we can finally start to discuss what has actually changed. 
+
+Lets look at those jobs again.
 
 What did we learn from this entire fiasco? Well if you are currently in elementary or middle school, currently, you are probably learning nothing.
 
@@ -344,8 +345,6 @@ I mean ... it just makes sense right? If, instead of thinking, you decide to not
 
 Its kind of annoying that we have this amazing learning tool and we keep using it to learn less.
 
-There is also something to be said about more and more of school being on computers, allowing for easier and easier cheating. The school system really isn't prepared for AI to exist yet. 
-
 Using AI as an assistant means you only have to learn as much as you feel like, and when a kid is in 1st grade the amount they usually want to learn is like zero.
 
 But that is okay, AI is going to handle all of the jobs anyways so at least when the kids grow up they can go outside and relax all day.
@@ -355,42 +354,21 @@ But that is okay, AI is going to handle all of the jobs anyways so at least when
 ### You Learned Nothing and The Planet is Burning
 Do you remember cryptocurrency? If you don't know, cryptocurrency essentially exists as a ledger that GPUs run to upkeep. There was a point in time in which you could run GPUs 24/7 and make money while doing it. This was also bad for the environment yes, but nobody seemed to care because a lot of these farms were either in someone's bedroom, in the back of someone's shed, or literally in a barn, on a farm.
 
-Running AI is kind of the same thing. To run a large model, you can use a computer that fits in a barn, in a shed, or even in a bedroom. See, now that we have amazing open source quantized models, you can really run good AI anywhere.
+Running AI is kind of the same thing. To run a large model, you can use a computer that fits in a barn, in a shed, or even in a bedroom. See, now that we have amazing open source quantized models, you can really run good AI anywhere. Prompting AI takes roughly the same amount of energy as a single google search, and google runs AI whenever I use it so I might as well just use AI, it's almost saving energy! So what is all the fuss about, asking AI doesn't do much.
 
-But what if you want to train a model? (image of sam altman)
+But what if you want to train a model? (image of Sam Altman)
 
-Uh oh! Recently, in XYZ city they built a datacenter, and their energy bill went up about XYZ dollars! Why? Well, like how playing XBOX increases your energy bill, this company is running enough GPUs like every citizen is running a million xbox's simultaneously.
+Uh oh! Recently, in Oregon they built a datacenter, and their energy bill went up about a billion dollars! Why? Well, like how playing XBOX increases your energy bill, this company is running enough GPUs like every citizen is running a million xbox's simultaneously.
 
 And the city is now running low on water! Wait, the last time I poured water on my XBOX it stopped working, why do they need water?
 
----
-Do more research on this section
+Well. AI specific GPU's get really hot. They basically pack a lot of computing into a small space, and more computing usually means hotter. So, they put water on it to make it hotter. But, when water gets hot, it doesn't just go away? Well some people are, but its cheaper to just not.
 
----
+The problem is, people just keep building data centers in cities that rely on well water to live. Then, the data center building company still decides to build in the places with the lest amount of water that consistently have droughts. Then the datacenter company just doesn't use closed-loop cooling.
 
-The largest problem that people believe exists with data centers seems to be water ... but I think that was more of a short term hiccup than an actual problem.
+Anyway, the largest problem that people believe exists with data centers seems to be water ... but I think that was more of a short term hiccup than an actual problem. There are solutions, and the companies are choosing profits over people, which kind of makes you sad, and kind of angry.
 
-Data centers use water to cool down the machines, but they don't really 'have' to. In fact, my computer actually wouldn't love it if you poured water on it right now.
-
-
-Talk about 
-### People Hate This Stuff
-Nothing is bringing people together more in the Divided States of America more than our hate of data centers. 
-
-
-
-### Credit for Credit
-See, we actually just made AGI, or artificial general intelligence, last week, but also, companies like Duolingo and Klarna are re-hiring all of their employees back, their ... human employees. 
-
-
-They just through all of their credits, on a credit card, and call it a day.
-But what if instead of a large team of AI agents, you just hired a team of interns for the same price?
-
-Remember when Sam Altman said "AI will work like an intern for a bit." well it turns out it costs about the same amount of money for the same quality of decisions.
-
-See recently OpenAI basically claimed a 1 million dollar bounty on something that was previously believed to be an impossible math problem, but here's the problem, they spent 20 million dollars on credits to solve it.
-
-But did they, it seems the idea was already in place and they just used AI to accelerate it.
+In fact, nothing is bringing people together more in the Divided States of America more than our hate of data centers. [source](https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx)  
 
 ### AI is not a tool, its an accelerant
 
@@ -402,8 +380,8 @@ If you give a someone who doesn't know how to architect a project AI, they will 
 If you give a bad writer AI, they will very quickly write a bad novel.
 If you give a bad game developer AI, they will quickly realize their bad game idea.
 
-
-But does AI accelerate learning? It can! But just using it doesn't really work because AI is more of a poison steroid.
+But does AI accelerate learning? It can! 
+But just using it doesn't really teach you anything, because AI is also kind of like a poison steroid.
 
 ### AI is a Poison Steroid 
 
@@ -413,28 +391,40 @@ The more you program with AI you don't get better at programming at all. You jus
 
 Here is the little experiment.
 
-Sam and Thomas are in a programming competition. Their goal is to become a the best programmer given 60 years. Whoever is the better programmer at the end of the 60 years wins. Sam only vibe codes and Thomas only handwrites code.
+Sam and Tom are in a programming competition. Their goal is to become a the best programmer given 60 years. Whoever is the better programmer at the end of the 60 years wins. Sam only vibe codes and Tom only handwrites code (disgusting).
 
+See Sammy over here, never actually learn everything so his knowledge stays flat.
+While Tom begins learning things, and starts to grow in his knowledge.
 
-### Explain Programmer Escape Velocity
+And after around 50 years of this going on, Tom finally passes Sam.
 
+But honestly, I don't think this takes 50 years. In fact, I think you can do this in exactly 4 years.
+
+I think you can achieve, the Programmer Escape Velocity
 
 ### You Need to Escape
+Everyone and everything is trying to convince you that you need to learn AI to survive. But you can learn how to use AI in 5 days, or maybe 1 hour if I did a good job. Everything else you need to learn can be found in documentation, a YouTube video, a book, or, the best way to learn, programming something yourself.
 
+You can't fall into the trap of using AI for everything. People will expect you to program ridiculous projects in tight deadlines but you can't fall for that now. Now is your time to surpass the AI. I am not saying have an entire knowledge of the world, and yes, Claude can one-shot make certain games, but you can too, and if you need to explain your code to a colleague, or make any modifications, you can, because YOU wrote it.
 
-Because AI won't replace you, someone who doesn't need it will.
+I call it the Programmer Escape Velocity. Getting to a point where you are comfortable writing code, and are consistently writing better code, than the vibe coders around you. And if you think this person doesn't exist, there are a lot of people in this room who I believe have already achieved this.
 
+People like TJ, Austin, Ian, Noah, Logan, and many others in this room.
 
+They are trying to make you scared so you give up, 
+Because AI won't replace you, someone who doesn't need it will, and that hurts their bottom line.
+
+Thank you.
+
+(hopefully applause here)
 
 ### Kent Code Quick
-
-
-
+But! If you want to achieve Programmer Escape Velocity literally in two days we are running an event called Kent Code Quick! This is a now AI allowed event with only documentation and mentors at your disposal so you can truly learn, how to program. No experience required we will teach you everything, and it will be a lot of fun!
 
 ### Questions?
 Before I end, what if I told you all that this entire presentation was written ... by hand, I wrote it by hand, no amount of tokens could come up with this (your desired expletive)!
 
-Anyways, are there any questions?
+Anyways, are there any questions? seriously I am stoked for the questions I want to answer all of your questions!!
 
 (Someone should inevitably ask about the codex looping and if they don't I should say, "does anyone want to check out how codex is doing?") if nobody has any questions.
 
