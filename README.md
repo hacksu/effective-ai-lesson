@@ -8,7 +8,7 @@
 # Script
 ### Subscriptions
 Hello! Before we begin I will be using two subscriptions throughout this lecture.
-🟠 The first I will be using it GitHub Copilot which can be gotten for free by making a free GitHub account and activating the student plan. You can go to [github.com/education/students](https://github.com/education/students) to activate this. 
+🟠 The first I will be using is GitHub Copilot which can be gotten for free by making a free GitHub account and activating the student plan. You can go to [github.com/education/students](https://github.com/education/students) to activate this. 
 
 🟠The second one is codex through ChatGPT pro. You can get four months for free but you do need to input a debit or credit card for this to work and you will be charged after having it for four months, just a warning
 
@@ -16,12 +16,12 @@ I had to submit my Student ID, visual schedule builder, and this semesters bills
 
 But you can try and get these working while the lesson goes on as I will probably start using these about 25% through the lesson today, so you have some time
 
-The link for this one will also be sent in the lesson discord channel. So go here to get students discount to unlock Codex : [link](https://chatgpt.com/students/2026/)  
+The link for this one will also be sent in the lesson discord channel. So go here to get the student discount to unlock Codex : [link](https://chatgpt.com/students/2026/)  
 
 Also, if you literally have any technical problems, point directly at the ceiling!!! This will alert our beloved HacKSU officers that you are experiencing an issue! I promise this will not interrupt the lesson, the only reason I am up here is to help you understand computer science better. 
 
 ### Questions
-Who here has heard of Artificial Intelligence? ` I raise my hand too `
+🟠Who here has heard of Artificial Intelligence? ` I raise my hand too `
 
 Who here believes that AI can be useful? ` I raise my hand too `
 `then call out somebody that didn't raise their hand and ask them why they believe AI can't be useful`
@@ -33,7 +33,9 @@ Okay, I just wanted to make sure we were all on the same page in that we all und
 
 AI is really difficult to make and really easy to use. But I think using it responsibly is the most important thing I can teach you, as there isn't exactly a warning label on this stuff.
 
-But before we get to any of that, we have to understand how we got here. Now history began when Sam Altman was born.
+But before we get to any of that, we have to understand how we got here. 
+
+Now, as we know, all of human history began when Sam Altman was born.
 
 ### A Brief History
 🟠 Samuel Harris Altman is born on April 22nd, 1985. And he looks to his mother and says, "I, Samuel Harris Altman in 30 years, I am going to create an AI startup that will take over the world".
@@ -42,13 +44,15 @@ And then, respect to him, he did just that.
 🟠So OpenAI is co-founded by Sammy bears on December 8th, 2015 and Sammy bears becomes CEO of the company in 2019. Then in on November 30th 2022, they launched ChatGPT. 
 
 🟠Then in January of 2023, they hit 100 million users. ([source](https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/)) 
-And, at the time I was in the second semester of my junior year of High School and I was watching everyone around me generate their essays in my language arts class. 
+🟠And, at the time I was in the second semester of my junior year of High School and I was watching everyone around me generate their essays in my language arts class. 
 
-It was pretty decent but still pretty bad. Around this time people started to immediately discuss how nobody will ever work again. But luckily for us, in June of 2023, Sammy assured us that nobody would lose their jobs and people would just become more efficient. [source](https://ia.acs.org.au/article/2023/sam-altman--ai-won-t-take-all-our-jobs.html)
+It was pretty decent but still pretty bad. Around this time people started to immediately discuss how nobody will ever work again. But luckily for us, in June of 2023, 
+🟠Sammy assured us that nobody would lose their jobs and people would just become more efficient. [source](https://ia.acs.org.au/article/2023/sam-altman--ai-won-t-take-all-our-jobs.html)
 
 🟠And the data backed him up too. This is a graph of Software Development Job Postings on Indeed in the United States. [source](https://fred.stlouisfed.org/series/IHLIDXUSTPSOFTDEVE) 
 
-Dang 100 million users, there must be something to this, we gotta learn how to use it!
+🟠But anyway, if 100 million people are using it, it must be pretty important, 
+🟠so we gotta learn how to use it!
 
 ---
 
@@ -113,9 +117,9 @@ But yeah, this is about as complicated as the chatbots in the browser's get. But
 ### Unemployment
 🟠Anyway! So remember, we are still in January of 2023 and in about a year and a half, or two years ago from tomorrow, Andrew Roddy will use it to study hard for CS1.
 
-🟠Enter : Nathaniel Dourif Friedman, born August 6, 1977 in Charlottesville, Virginia
+🟠Enter : Nathaniel Dourif Friedman, born August 6, 1977 in Charlottesville, Virginia. And he is the current CEO of GitHub
 
-🟠He is the current CEO of GitHub and in June of 2021 GitHub released their AI coding assistant tool called Copilot: [link](https://github.blog/news-insights/product-news/introducing-github-copilot-ai-pair-programmer/)
+🟠In June of 2021 GitHub released their AI coding assistant tool called Copilot: [link](https://github.blog/news-insights/product-news/introducing-github-copilot-ai-pair-programmer/)
 This little guy can do a lot but was basically just really good autocomplete, and was honestly just mostly annoying.
 
 Anyway, that is just what it was in 2021, but in March of 2023, remember, only two months after ChatGPT hit 100 million users, 
@@ -126,7 +130,8 @@ And because of LLMs and AI, the job market was already not doing great
 
 🟠Then later in September of 2023 this feature was rolled out to all individuals. ([source](https://github.blog/news-insights/product-news/github-copilot-chat-beta-now-available-for-all-individuals/)) 
 
-🟠Then in October of 2023 the CEO of Microsoft announced that GitHub Copilot hit 1 million paid users. Not just users in general but people who are giving them money. 
+🟠Then in October of 2023 the CEO of Microsoft announced that 
+🟠GitHub Copilot hit 1 million paid users. Not just users in general but people who are giving them money. 
 ([source](https://www.cnbc.com/2023/11/08/microsoft-launches-github-copilot-enterprise-to-help-with-private-code.html))
 
 🟠And the job market, once again, responded accordingly.
@@ -134,7 +139,8 @@ And because of LLMs and AI, the job market was already not doing great
 Very cool, so AI can now code for you. So is Computer Science over? Have we solved it?
 I don't know why any of us are here if we can just so easily ask the computer to code itself?
 
-Well, that was the narrative. You *will* not get a job in computer science. In fact nobody is hiring! But nonono. Sam Altman assured us, no "You're not going to lose your job to an AI, but you're going to lose your job to someone who uses AI." [source](https://www.yahoo.com/news/openai-ceo-sam-altman-says-161828662.html?guccounter=1). So you gotta start learning now or you will be unemployed by tomorrow!
+🟠Well, that was the narrative. You *will* not get a job in computer science. In fact nobody is hiring! But nonono. Sam Altman assured us, no "You're not going to lose your job to an AI, but you're going to lose your job to someone who uses AI." [source](https://www.yahoo.com/news/openai-ceo-sam-altman-says-161828662.html?guccounter=1). So you gotta start learning now or you will be unemployed by tomorrow! 
+🟠So Let's Learn Copilot!
 
 ### Copilot (October 2023)
 
@@ -207,8 +213,10 @@ So, that is how to use Copilot in VSCode, this is actually still a decent way to
 
 ### Claude (October 2023)
 
+Alright, welcome back! I hope you enjoyed Copilot!
+
 🟠This was Dario Amodei. And now 
-🟠this is Dario Amodei, a higher quality looking man
+🟠this is Dario Amodei, a man with more pixels this time
 
 Dario Amodei was born in 1983 in San Francisco. Him and his sister Daniela Amodei founded Anthropic on January 26th, 2021.
 
@@ -217,12 +225,12 @@ Dario Amodei was born in 1983 in San Francisco. Him and his sister Daniela Amode
 But, they chose Dario Amodei to be the spokesperson and CEO. Anyway, their ChatGPT equivalent 
 🟠is Claude.
 
-🟠In November of 2023 Sam Altman said OpenAI should be ashamed if they aren't the first major company run by an AI CEO. [source](https://www.businessinsider.com/sam-altman-openai-ai-ceo-2025-11) 
+🟠In November of 2023 Sam Altman said "OpenAI should be ashamed if they aren't the first major company run by an AI CEO." [source](https://www.businessinsider.com/sam-altman-openai-ai-ceo-2025-11) 
 
-🟠Confident, Sam Altman rested, knowing he has won the AI game, but just four years after those IDIOTS, left his company OpenAI, 
+🟠Confident, Sam Altman rested, knowing he has won the AI game ... ... but just four years after those IDIOTS left his company
 
-But then, rising from the ashes
-🟠Dario Amodei peeked over the edge of what was possible using AI
+rising from the ashes
+🟠Dario Amodei peeked over the edge of, the screen, and redefined what was possible using AI
 
 🟠And on March 27th 2024 Claude surpassed ChatGPT on LMArena making it to the top LLM to beat. ([source](https://www.tomsguide.com/ai/claude-takes-the-top-spot-in-ai-chatbot-ranking-finally-knocking-gpt-4-down-to-second-place))
 
@@ -235,8 +243,9 @@ And that the human lifespan will reach 150 and "Once the human lifespan is 150, 
 🟠 Then on February 24th 2025, Claude Code released to the public. [source](https://www.anthropic.com/news/claude-3-7-sonnet) 
 🟠And our job graph, never, ever looked so rough, wow, what a beautiful sight
 
-🟠After this in April of 2025 the OpenAI's Codex released and by May 16th they reached 100,000 downloads
-🟠Then, Claude Code reached 1 million downloads. [source](https://github.com/AndrewRoddy/cli-tool-installs) 
+🟠And in April of 2025, Claude Code reached 1 million downloads. [source](https://github.com/AndrewRoddy/cli-tool-installs)  
+
+🟠Just a week after this, OpenAI released Codex and less than one month later, it reached 100,000 downloads 
 
 🟠Then, on May 28th, 2025 Dario Amodei told Axios that AI could wipe out half of all entry-level white-collar jobs and the government needs to stop "sugar-coating" what will happen. [source](https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic) 
 
@@ -311,40 +320,46 @@ So what `/goal` does is it keeps going until it is done and if I just tell it to
 
 I am just going to run this while the lesson goes on and we will check in on this at the end.
 
+🟠Welcome back! I hope you enjoyed learning CODEX. Did you enjoy pressing the 'accept' button every 5 seconds?
+
 🟠Well, if you want to just sit there and press 'accept' every 10 minutes, that is fine by me ... but what if we didn't need someone to press accept, 
 
 🟠what if it could just go forever on its own? Well that is what we just did ... so do we need developers anymore?
 
 🟠Lets check in on those CS majors again! hmm
+ummm, hey, I just had a thought ... 
 
 🟠What if these get so good that nobody is ever a programmer again and there is a finite set clock of time and when we finally achieve AGI or Artificial General Intelligence and it can iterate on itself forever and ever and create clones of itself forever and ever then the only people who will survive are the people who already built all of their wealth while it was being created?
 
 🟠What if that happens, are we going to make it?
 
-### NGMI (You are not going to make it) (about may 2026)
+### NGMI 
 
-🟠NGMI, NGMI is a term said in silicon valley and San Francisco invented during the Crypto boom, 
+🟠NO, You are Not Gonna Make It
+🟠NGMI is a term said in silicon valley and San Francisco invented during the Crypto boom, 
 
-🟠it was initially used as a term to describe different crypto coins, ones that are going to make it and ones that are Not Going To Make It aka NGMI. [source kinda](https://www.kraken.com/learn/what-is-wagmi-ngmi) 
+it was initially used as a term to describe different 
+🟠crypto coins, ones that are going to make it and ones that are Not Going To Make It aka NGMI. [source kinda](https://www.kraken.com/learn/what-is-wagmi-ngmi) 
 
-🟠It has now been repurposed to describe people, I am now valued as a prospect like a crypto coin is valued on the blockchain. Some people are going to make it in the age of AI, and others ... are not.
+It has now been repurposed to describe people, 
+🟠I am now valued as a prospect like a crypto coin is valued on the blockchain. Some people are going to make it in the age of AI, and others ... are not.
 
 🟠If you take a vacation day, you are NGMI, 
 🟠if you stop building your massive startup, NGMI, 
 🟠if you even think for half a second about something that isn't building your startup called Stinker, A Bathroom Locater And Review App, which will turn FAANG to FAANGS when you are done with it!!!, you are NGMI
 🟠if you waiver for a second, you are NGMI.
-
 🟠There are no jobs available and in the future there will be less. 
+
 🟠We are all now just racing to make all of the money we can before somebody, inevitably, makes AGI.
 
 ### Somebody, inevitably, made AGI
+🟠Oh... `I look up at the slide` 
 🟠On September 3rd, 2026, or just 3 weeks ago OpenAI released their latest model GPT-6 Astra. 
 🟠This model scored 99.95% on the AGI benchmarks. [source](https://arcprize.org/results/openai-gpt-6-astra)
 
 🟠And honestly... nothing really changed. Actually, recently, it feels like a lot of the larger voices in the AI space are getting ... quieter. 
 
 🟠On May 26th 2026 Sam Altman famously said : "I’m delighted to be wrong about this. I thought there would have been more impact on entry-level white-collar jobs being eliminated by now than has actually happened," [source](https://www.businessinsider.com/sam-altman-ai-jobs-prediction-wrong-white-collar-openai-australia-2026-5)  
-
 Sam Altman has really been backtracking on a lot of his AI hype even though he still believes we will achieve superintelligence by 2028. Actually, even some of the quotes I said before he has recently retracted.
 
 But not everyone in the AI space is retracting their statements, 
@@ -352,7 +367,9 @@ But not everyone in the AI space is retracting their statements,
 
 🟠In January of 2026 he said that we are 6 to 12 months out from an AI agent swarm being able to take over the entire internet. [source](https://darioamodei.com/post/we-must-pace-the-frontier ) 
 
-🟠Then in June of 2026 he released a 5,000 word write up called "Policy on the Exponential" where he explained that AI needs more safeguards and FAA style regulation. The craziest line by far though is "A nation that possesses powerful AI facing one without it—or even facing one that is behind in AI by 3 years—could be the equivalent of an army of World War II Marines facing an army of medieval swordsmen." [source](https://darioamodei.com/post/policy-on-the-ai-exponential) 
+🟠Then in June of 2026 he released a 5,000 word write up called "Policy on the Exponential" where he explained that AI needs more safeguards and FAA style regulation. 
+
+The craziest line by far though is "A nation that possesses powerful AI facing one without it—or even facing one that is behind in AI by 3 years—could be the equivalent of an army of World War II Marines facing an army of medieval swordsmen." [source](https://darioamodei.com/post/policy-on-the-ai-exponential) 
 
 But the difference here is, nobody is really talking about them. It really feels like the boy who cried wolf.  And now that AGI is allegedly here, and the entire world isn't upside down, we can finally start to discuss what has actually changed. 
 
@@ -361,23 +378,23 @@ But the difference here is, nobody is really talking about them. It really feels
 🟠We are actually going up a bit
 
 🟠But aside from crushing reality? What did we actually learn from this entire fiasco?
-Well if you are currently in elementary or middle school ... you are probably learning nothing.
-🟠
+Well if you are currently in elementary or middle school ... 
+🟠you are probably learning nothing.
 
 ### You Learned Nothing
 
-We are getting dumber, overall, in total. And honestly, I don't know who's fault is it.
+🟠We are getting dumber, overall, in total. And honestly, I don't know who's fault is it.
 
-It could be short-form content, it could be degrading quality of the education system, or it could be the fact that i
+It could be short-form content, it could be degrading quality of the education system, or it could be the fact that
 
 🟠69% of students in high school self report 
 to using AI to cheat on their homework. [source](https://newsroom.collegeboard.org/new-research-majority-high-school-students-use-generative-ai-schoolwork) 
 
-SELF REPORT, do you know how much you have got to be cheating to be like 'yeah, all the time' to the COLLEGE BOARD. These are the people who are directly responsible with deciding which college you go to. They ADMINISTER the SAT.
+🟠SELF REPORT, do you know how much you have got to be cheating to be like 'yeah, all the time' to the COLLEGE BOARD. These are the people who are directly responsible with deciding which college you go to. They ADMINISTER the SAT.
 
 You really know these students are getting dumber for admitting stuff like this. Everyone must be cheating, ... 69% of students admit it and 31% of students are smart enough to not.
 
-whoo, anyways
+🟠whoo, anyways
 
 🟠It also, turns out that like ... the world is lowering in performance on math and reading scores. 
 🟠I mean, this doesn't mean we are dumber necessarily though, just worse at math and reading. [link](https://abcnews.com/GMA/News/us-students-reading-scores-dive-new-data-shows/story?id=136272199) [source](https://www.oecd.org/en/data/dashboards/pisa-education-and-skills/performance-trends.html?oecdcontrol-chart-control-bar-92d7c1b41b-var1=G884)  
@@ -394,18 +411,21 @@ But that is okay, AI is going to handle all of the jobs anyways
 right next, to their favorite
 🟠data center
 
-🟠
 ### You Learned Nothing and The Planet is Burning
-🟠Do you remember cryptocurrency? If you don't know, cryptocurrency essentially exists as a ledger that GPUs run to upkeep. There was a point in time in which you could run GPUs 24/7 and make money while doing it. This was also bad for the environment yes, but nobody seemed to care because a lot of these crypto farms were either in someone's bedroom, in the back of someone's shed, or literally in a barn.
+🟠Wait yeah, how does this AI stuff even run
+🟠Do you remember cryptocurrency? If you don't know, cryptocurrency essentially exists as a ledger that GPUs run to upkeep. There was a point in time in which you could run GPUs 24/7 and make money while doing it. This was also bad for the environment yes, but nobody seemed to care because a lot of these crypto farms were either 
+🟠in someone's bedroom, in the back of someone's shed, or literally in a barn.
 
-Running AI is kind of the same thing. To run a large model, you can use a computer that fits in a barn, in a shed, or even in a bedroom.
+🟠Running AI is kind of the same thing. To run a large model, you can use a computer that fits in a barn, in a shed, or even in a bedroom.
 
-See, now that we have amazing open source quantized models, you can really run good AI anywhere. The environmental cost is a lot less because you can just run it using whatever energy your laptop has.
+🟠See, now that we have amazing open source quantized models, you can really run good AI anywhere. 
+🟠The environmental cost is a lot less because you can just run it using whatever energy your laptop has.
 
-And also, even if you aren't running it locally, Prompting AI takes roughly the same amount of energy as a single google search.
-And even when you search google it runs an AI query anyway, so you might as well just go straight to the source!
+And also, even if you aren't running it locally, 
+Prompting AI takes roughly the same amount of energy as a single google search.
+🟠And even when you search google it runs an AI query anyway, so you might as well just go straight to the source!
 
-So what is all the fuss about, asking AI doesn't do much. One prompt won't hurt ...
+🟠So what is all the fuss about, asking AI a question doesn't do much to hurt the environment. One prompt really doesn't matter ...
 
 But what if you want to 
 🟠train a model? (image of Sam Altman)
@@ -415,31 +435,35 @@ But what if you want to
 And that's Grok 4. 
 🟠Grok 4 is garbage
 
-Uh oh! Recently, in Oregon they built a datacenter, and their energy bill went up about a billion dollars! Why? Well, that is probably because, this company is running enough GPUs to be like every citizen is running a million Xbox's simultaneously.
+Uh oh! Recently, in Oregon they built a 
+🟠datacenter, and their energy bill went up about a billion dollars! Why? Well, that is probably because, this company is running enough GPUs to be like every citizen is running a million Xbox's simultaneously.
 
-🟠And the city is now running low on water! Wait, the last time I poured water on my XBOX it stopped working, why do they need water?
+🟠And the city is now running low on water! 
+Wait, the last time I poured water on my XBOX it stopped working, why do they need water?
 
-Well. AI specific GPU's get really hot. They basically pack a lot of computing into a small space, and more computing usually means hotter. So, they put water on it to make it cooler. 
+🟠Well. AI specific GPU's get really hot. They basically pack a lot of computing into a small space, and more computing usually means hotter. So, they put water on it to make it cooler. 
 
 But I don't know about you. but when water gets hot, it doesn't just go away? It might evaporate, but its still somewhere? What if we just closed the loop? Well some people are, but that is more expensive, so data center companies are just choosing not to do it.
 
-But we have a lot of water in places, even if you don't use the closed loop cooling, you can still get a decent bit of water right?
+🟠What seems to keep happening, is data centers keep getting built in places that already experience frequent droughts and rely on well water to survive.
 
-Well the problem is, people just keep building data centers in cities that rely on well water to live. Then the data center companies takes all of the water, and are confused why people are getting mad at them when the 'well literally runs dry'. We have closed loop cooling. This is a thing.
+Then the data center companies drain the available water for that town and the well literally runs dry. And people usually enjoy being alive so
+🟠People usually get mad when the 'well literally runs dry'
 
-🟠Anyway, the largest problem that people believe exists with data centers seems to be water ... but I think that was more of a short term hiccup than an actual problem. There are solutions, and the companies are choosing profits over people, which kind of makes you sad, and kind of angry.
+Anyway, the largest problem that people believe exists with data centers seems to be water ... 
+🟠but I think that was more of a short term hiccup than an actual problem. 
+🟠There are solutions, and the companies are choosing profits over people, which kind of makes you sad, and kind of angry.
 
-🟠In fact, nothing is bringing people together more in the Divided States of America more than our hate of data centers. [source](https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx)  
+🟠In fact, nothing is bringing people together more in the United and Divided States of America more than our hate of data centers. [source](https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx)  
 
 But that's where my knowledge stops for the data centers and environment. Some people think legislation is the answer and others believe that stopping consumption is another answer.
 
-Personally, I eat burgers, and ask Claude. So I have no pedestal to preach from. 
+🟠Personally, I eat burgers, and use Claude. So I have no pedestal to preach from. 
 But anways.
 
-🟠
-### AI is not a tool, its an accelerant
 
-So, what's my conclusion, well on September 22nd 2026 some guy named 
+### AI is not a tool, its an accelerant
+🟠So, what's my conclusion, well on September 22nd 2026 some guy named 
 🟠Andrew Roddy coined the term "Ai is not a tool, it is an accelerant." and I think he was mostly right when he said it. 
 
 It can accelerate how fast a project is made, but sometimes you need that slower speed to really understand the code before you make a stupid decision.
@@ -451,24 +475,21 @@ If you give a bad game developer AI, they will quickly realize their bad game id
 But does AI accelerate learning? It can! 
 But just using it doesn't really teach you anything, because AI is also kind of like a poison steroid.
 
-🟠
-### AI is a Poison Steroid 
-
-Steroids accelerate muscle growth and poison hurts you. Basically, when you use AI you seem a lot stronger at the given topic than you are, but you don't ever actually increase your muscle growth under the hood.
+🟠Steroids accelerate muscle growth and poison hurts you. Basically, when you use AI you seem a lot stronger at the given topic than you are, but you don't ever actually increase your muscle growth under the hood.
 
 The more you program with AI you don't get better at programming at all. You just continue to appear exactly as strong as you are with no increase.
 
 Here is the little experiment.
 
 🟠Sam and Tom are in a programming competition. Their goal is to become a the 
-🟠best programmer given 60 years. Whoever is the better programmer at the end of the 60 years wins. 
+🟠best programmer given 60 years. 
+🟠Whoever is the better programmer at the end of the 60 years wins. 
 🟠Sam only vibe codes and Tom only handwrites code 
-disgusting, sorry that was my inner Altman
 
-🟠See Sammy over here, never actually learn everything so his knowledge stays flat.
+🟠See Sammy over here, never actually learns anything so his knowledge stays flat.
 🟠While Tom begins learning things, and starts to grow in his knowledge.
-
 And after around 50 years of this going on, 
+
 🟠Tom finally passes Sam.
 
 But honestly, I don't think this takes 50 years. In fact, 
@@ -480,17 +501,23 @@ If you really focus and try hard enough,
 ### You Need to Escape
 
 See, 
-🟠Everyone and everything is trying to convince you that you need to learn AI to survive. But you can learn how to use AI in 5 days, or maybe 1 hour if I did a good job. Everything else you need to learn can be found in documentation, a YouTube video, a book, or, the best way to learn, programming something yourself.
+🟠Everyone and everything is trying to convince you that you need to learn AI to survive. 
+
+But you can learn how to use AI very quickly, you can probably learn all about using AI in 5 days, or maybe 1 hour if I did a good job. 
+
+Everything else you need to learn can be found in documentation, a YouTube video, a book, or, the best way to learn,... programming something yourself.
 
 🟠You can't fall into the trap of using AI for everything. People will expect you to program ridiculous projects in tight deadlines but you can't fall for that now. Now is your time to surpass the AI. I am not saying have an entire knowledge of the world, and yes, Claude can one-shot make certain games, but you can too, and if you need to explain your code to a colleague, or make any modifications, you can, because YOU wrote it.
 
 🟠I call it the Programmer Escape Velocity. Getting to a point where you are comfortable writing code, and are consistently writing better code, than the vibe coders around you. 
 
+This will allow you to learn while making usable code at your job. You will be lifting heavy, without the poison steroid.
+
 🟠And if you think this person doesn't exist, there are a lot of people in this room who I believe have already achieved this.
 
 People like TJ, Austin, Ian, Noah, Logan, and many others, I believe are better programmers, than most people, just using AI.
 
-See, the AI companies are trying to make you scared so you give up, they want you to believe you need them, they want to get you hooked on their product, so you can't think for yourself, and you are reliant
+🟠See, the AI companies are trying to make you scared so you give up, they want you to believe you need them, they want to get you hooked on their product, so you can't think for yourself, and you are reliant
 🟠because AI won't replace you, someone who doesn't need it will, and that hurts their bottom line.
 
 Thank you.
@@ -501,9 +528,7 @@ Thank you.
 🟠🟠But! If you want to achieve Programmer Escape Velocity literally in two days we are running an event called Kent Code Quick! This is a now AI allowed event with only documentation and mentors at your disposal so you can truly learn, how to program. No experience required we will teach you everything, and it will be a lot of fun!
 
 ### Questions?
-Before I end, what if I told you all that this entire presentation was written ... by hand, I wrote it by hand, no amount of tokens could come up with this (your desired expletive)!
-
-Anyways, are there any questions? seriously I am stoked for the questions I want to answer all of your questions!!
+🟠Anyways, are there any questions? seriously I am stoked for the questions I want to answer all of your questions!!
 
 (Someone should inevitably ask about the codex looping and if they don't I should say, "does anyone want to check out how codex is doing?") if nobody has any questions.
 
