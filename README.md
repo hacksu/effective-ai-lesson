@@ -1,3 +1,4 @@
+
 # Agenda 
 1. ChatGPT
 2. Copilot (VsCode)
@@ -41,7 +42,7 @@ Now, as we know, all of human history began when Sam Altman was born.
 🟠 Samuel Harris Altman is born on April 22nd, 1985. And he looks to his mother and says, "I, Samuel Harris Altman in 30 years, I am going to create an AI startup that will take over the world".
 
 And then, respect to him, he did just that. 
-🟠So OpenAI is co-founded by Sammy bears on December 8th, 2015 and Sammy bears becomes CEO of the company in 2019. Then in on November 30th 2022, they launched ChatGPT. 
+🟠So OpenAI is co-founded by Sammy bears on December 8th, 2015 and Sammy bears becomes CEO of the company in 2019. Then on November 30th 2022, they launched ChatGPT. 
 
 🟠Then in January of 2023, they hit 100 million users. ([source](https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/)) 
 🟠And, at the time I was in the second semester of my junior year of High School and I was watching everyone around me generate their essays in my language arts class. 
@@ -115,9 +116,9 @@ Ask it to generate a first lab. `Then try and do the first lab.`
 But yeah, this is about as complicated as the chatbots in the browser's get. But this is still a great learning tool if you are interested!
 
 ### Unemployment
-🟠Anyway! So remember, we are still in January of 2023 and in about a year and a half, or two years ago from tomorrow, Andrew Roddy will use it to study hard for CS1.
+🟠Anyway! So remember, we are still in January of 2023
 
-🟠Enter : Nathaniel Dourif Friedman, born August 6, 1977 in Charlottesville, Virginia. And he is the current CEO of GitHub
+🟠Enter : Nathaniel Dourif Friedman, born August 6, 1977 in Charlottesville, Virginia. Nate is the current CEO of GitHub
 
 🟠In June of 2021 GitHub released their AI coding assistant tool called Copilot: [link](https://github.blog/news-insights/product-news/introducing-github-copilot-ai-pair-programmer/)
 This little guy can do a lot but was basically just really good autocomplete, and was honestly just mostly annoying.
@@ -390,11 +391,7 @@ It could be short-form content, it could be degrading quality of the education s
 🟠69% of students in high school self report 
 to using AI to cheat on their homework. [source](https://newsroom.collegeboard.org/new-research-majority-high-school-students-use-generative-ai-schoolwork) 
 
-🟠SELF REPORT, do you know how much you have got to be cheating to be like 'yeah, all the time' to the COLLEGE BOARD. These are the people who are directly responsible with deciding which college you go to. They ADMINISTER the SAT.
-
-You really know these students are getting dumber for admitting stuff like this. Everyone must be cheating, ... 69% of students admit it and 31% of students are smart enough to not.
-
-🟠whoo, anyways
+🟠That's literally most students. If your high school class has 20 people in it, that means only 6 of them are not using AI. 
 
 🟠It also, turns out that like ... the world is lowering in performance on math and reading scores. 
 🟠I mean, this doesn't mean we are dumber necessarily though, just worse at math and reading. [link](https://abcnews.com/GMA/News/us-students-reading-scores-dive-new-data-shows/story?id=136272199) [source](https://www.oecd.org/en/data/dashboards/pisa-education-and-skills/performance-trends.html?oecdcontrol-chart-control-bar-92d7c1b41b-var1=G884)  
@@ -418,7 +415,7 @@ right next, to their favorite
 
 🟠Running AI is kind of the same thing. To run a large model, you can use a computer that fits in a barn, in a shed, or even in a bedroom.
 
-🟠See, now that we have amazing open source quantized models, you can really run good AI anywhere. 
+🟠 But, now that we have amazing open source quantized models, you can really run good AI anywhere. 
 🟠The environmental cost is a lot less because you can just run it using whatever energy your laptop has.
 
 And also, even if you aren't running it locally, 
@@ -447,14 +444,14 @@ But I don't know about you. but when water gets hot, it doesn't just go away? It
 
 🟠What seems to keep happening, is data centers keep getting built in places that already experience frequent droughts and rely on well water to survive.
 
-Then the data center companies drain the available water for that town and the well literally runs dry. And people usually enjoy being alive so
-🟠People usually get mad when the 'well literally runs dry'
+Then the data center companies drain the available water for that town and the well literally runs dry. And people enjoy being alive so
+🟠People kinda get mad when the 'well literally runs dry'
 
 Anyway, the largest problem that people believe exists with data centers seems to be water ... 
 🟠but I think that was more of a short term hiccup than an actual problem. 
 🟠There are solutions, and the companies are choosing profits over people, which kind of makes you sad, and kind of angry.
 
-🟠In fact, nothing is bringing people together more in the United and Divided States of America more than our hate of data centers. [source](https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx)  
+🟠In fact, nothing is bringing people together more in the United States of America more than our hate of data centers. [source](https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx)  
 
 But that's where my knowledge stops for the data centers and environment. Some people think legislation is the answer and others believe that stopping consumption is another answer.
 
@@ -468,7 +465,7 @@ But anways.
 
 It can accelerate how fast a project is made, but sometimes you need that slower speed to really understand the code before you make a stupid decision.
 
-🟠If you give a someone who doesn't know how to architect a project AI, they will use it to create a poorly architected project.
+🟠If you give someone who doesn't know how to architect a project AI, they will use it to create a poorly architected project.
 If you give a bad writer AI, they will very quickly write a bad novel.
 If you give a bad game developer AI, they will quickly realize their bad game idea.
 
@@ -526,6 +523,9 @@ Thank you.
 
 ### Kent Code Quick
 🟠🟠But! If you want to achieve Programmer Escape Velocity literally in two days we are running an event called Kent Code Quick! This is a now AI allowed event with only documentation and mentors at your disposal so you can truly learn, how to program. No experience required we will teach you everything, and it will be a lot of fun!
+
+### Movie
+We are also having a movie night right after this if you want to watch War Games stick around after questions are over!
 
 ### Questions?
 🟠Anyways, are there any questions? seriously I am stoked for the questions I want to answer all of your questions!!
